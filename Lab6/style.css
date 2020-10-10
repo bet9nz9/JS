@@ -1,0 +1,15 @@
+.pane{
+    background-color: black;
+}
+
+#tetris{
+    height: 620px;
+    width: 320px;
+    border: 10px solid white;
+}
+
+.element{
+    border: 2px solid white;
+    width: 30px;
+    height: 30px;
+}

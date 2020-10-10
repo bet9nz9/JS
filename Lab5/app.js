@@ -1,0 +1,5 @@
+const require1 = require("./task1")
+const require2 = require("./task2")
+const require3 = require("./task3")
+const require4 = require("./task4")
+const require5 = require("./task5")
